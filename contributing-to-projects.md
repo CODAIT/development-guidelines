@@ -143,3 +143,7 @@ A new editor will appear, now with the details you want to set to the merged com
 Generate Matrix with random values through local memory
 if there is sufficient memory.
 ```
+
+## Git Reference
+
+[@deroneriksson](https://github.com/deroneriksson) has written some good git workflow command reference and made available as a [gist](https://gist.github.com/deroneriksson/e0d6d0634f3388f0df5e).
