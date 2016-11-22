@@ -11,10 +11,10 @@ The following items will be discussed in this document :
 
 * [Contributing Documentation Changes](#Contributing+Documentation+Changes)
 * [Contributing code changes](#Contributing+code+changes)
- ** [Before creating a Pull Request](#Before+creating+a+Pull+Request)
- ** [Creating a Pull Request](#Creating+a+Pull+Request)
- ** [The Review Process](#The+Review+Process)
- ** [Merging Pull Requests](#Merging+Pull+Requests)
+  * [Before creating a Pull Request](#Before+creating+a+Pull+Request)
+  * [Creating a Pull Request](#Creating+a+Pull+Request)
+  * [The Review Process](#The+Review+Process)
+  * [Merging Pull Requests](#Merging+Pull+Requests)
 
 
 # Contributing Documentation Changes
