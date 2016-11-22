@@ -1,6 +1,21 @@
+
+
+# Project Contribution Guidelines
+
 This guide documents the best way to make various types of contribution to Spark Technology Center projects, including what is required before submitting a code change and how to properly merge them.
 
 Contributing to Spark Technology Center doesn't just mean writing code. Helping testing and reviewing pull requests and improving documentation are also welcome. In fact, proposing significant code changes usually requires first gaining experience and credibility within the community by helping in other ways. This is also a guide to becoming an effective contributor.
+
+
+The following items will be discussed in this document :
+
+* [Contributing Documentation Changes](#Contributing+Documentation+Changes)
+* [Contributing code changes](#Contributing+code+changes)
+ ** [Before creating a Pull Request](#Before+creating+a+Pull+Request)
+ ** [Creating a Pull Request](#Creating+a+Pull+Request)
+ ** [The Review Process](#The+Review+Process)
+ ** [Merging Pull Requests](#Merging+Pull+Requests)
+
 
 # Contributing Documentation Changes
 
@@ -18,10 +33,6 @@ Please review the preceding section before proposing a code change. This section
 **Whether or not you state this explicitly, by submitting any copyrighted material via pull request, email, or other means you agree to license the material under the project's open source license and warrant that you have the legal authority to do so.****
 ***
 
-1. [Before creating a Pull Request](#Before+creating+a+Pull+Request)
-2. [Creating a Pull Request](#Creating+a+Pull+Request)
-3. [The Review Process](#The+Review+Process)
-4. [Merging Pull Requests](#Merging+Pull+Requests)
 
 ##Before creating a Pull Request
 

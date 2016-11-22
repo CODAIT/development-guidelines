@@ -1,6 +1,17 @@
 This guide documents the release process steps that are recommended to use when creating Spark Technology Center project releases. Note that we are adopting the same release process as the one used by The Apache Software Foundation, so this guide can also serve as a guide for releasing Apache projects.
 
-# Building Project Releases
+# Project Release Guidelines
+
+The following items will be discussed in this document :
+
+* [Prerequesites for Release Managers](#Prerequesites+for+Release+Managers)
+* [Release Policies](#Release+Policies)
+* [Release Automation Script](#Release+Automation+Script)
+* [Preparing the release](#Preparing+the+release)
+* [Publishing the  release](#Publishing+the+release)
+* [The Release VOTE](#The+Release+VOTE)
+* [Publishing and Announcing the new project release](#Publishing+and+Announcing+the+new+project+release)
+
 
 ## Prerequesites for Release Managers
 
@@ -87,7 +98,7 @@ After this step is executed, please verify the following have been processed pro
 * The pom, in the release tag nas been updated to the proper "release version"
 * The pom, in the release tag nas been updated to the proper new "development version"
 
-## Publishing the  release
+## Publishing the release
 
 The release-publish option in the release automation script will execute the following tasks :
 
@@ -196,7 +207,7 @@ User 5
 
 For a concrete example, please see mailing-list archives for previous [result voting threads](https://www.mail-archive.com/dev@systemml.incubator.apache.org/msg01119.html)
 
-## The IPMC Release VOTE
+### The IPMC Release VOTE
 
 For Apache Incubator projects, after a successful project vote, there is a need for another vote that needs to seek IPMC approval
 
