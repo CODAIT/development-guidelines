@@ -10,8 +10,10 @@ This guide describe some best practices to be considered before making an approv
     + [Scala projects using Scalastyle checks](#scala-projects-using-scalastyle-checks)
   * [3rd Party Dependencies and License compatibility](#3rd-party-dependencies-and-license-compatibility)
 * [Accepting third party contributions](#accepting-third-party-contributions)
+* [Documentation](#documentation)
   * [Test coverage and Continuous Integration](#test-coverage-and-continuous-integration)
 * [Final Checklist](#final-checklist)
+* [Disclaimer](#disclaimer)
 
 # Getting started
 
@@ -299,7 +301,7 @@ Developer's Certificate of Origin 1.1
            this project or the open source license(s) involved.
 ```
 
-#Documentation
+# Documentation
 
 We use the **[community over code](https://blogs.apache.org/foundation/entry/asf_15_community_over_code)** 
 philosophy at Apache, and an easy way to start building communities around your project is to enable them to
@@ -340,7 +342,7 @@ Before flipping the switch and make your project open source, check the followin
 * README.md file is available and contains detailed build/install instructions  
 * Minimum documentation is available 
 
-#DISCLAIMER
+# DISCLAIMER
 
 I am not a lawyer and the information provide here is merely information and does not constitute leval advice.
 
