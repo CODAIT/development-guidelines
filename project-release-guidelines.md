@@ -1,6 +1,9 @@
-This guide documents the release process steps that are recommended to use when creating Spark Technology Center project releases. Note that we are adopting the same release process as the one used by The Apache Software Foundation, so this guide can also serve as a guide for releasing Apache projects.
 
 # Project Release Guidelines
+
+This guide documents the release process steps that are recommended to use when creating Spark Technology Center project
+releases. Note that we are adopting the same release process as the one used by The Apache Software Foundation,
+so this guide can also serve as a guide for releasing Apache projects.
 
 The following items will be discussed in this document :
 

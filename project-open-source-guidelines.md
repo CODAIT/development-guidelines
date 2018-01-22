@@ -1,4 +1,17 @@
+# Project open sourcing guidelines
 
+This guide describe some best practices to be considered before making an approved open source project public.
+
+* [Getting started](#getting-started)
+* [Project License](#project-license)
+  * [Applying a License](#applying-a-license)
+  * [Validating license](#validating-license)
+    + [Apache RAT](#apache-rat)
+    + [Scala projects using Scalastyle checks](#scala-projects-using-scalastyle-checks)
+  * [3rd Party Dependencies and License compatibility](#3rd-party-dependencies-and-license-compatibility)
+* [Accepting third party contributions](#accepting-third-party-contributions)
+  * [Test coverage and Continuous Integration](#test-coverage-and-continuous-integration)
+* [Final Checklist](#final-checklist)
 
 # Getting started
 
