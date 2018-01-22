@@ -319,7 +319,7 @@ As for suggested topics, I would recommend :
 * Other advanced documentation, such as external APIs, algorithms exposed, etc
 
 
-## Test coverage and Continuous Integration
+# Test coverage and Continuous Integration
 
 Most open source projects today follows an agile methodology and rely on continuous integration to maintain its
 code quality. 
