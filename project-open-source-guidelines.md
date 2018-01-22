@@ -28,8 +28,8 @@ account and enable payment via settings. More details about this can be found at
 What people will be able to do with your software is governed by how your project is Licensed. When
 we call a project **open source**, most of the times we are implying that the project license comply
 with the [open source definition](https://opensource.org/osd) -  in brief, they allow software to be freely used, 
-modified, and shared. The [Open Source Initiative - OSI] (https://opensource.org/licenses) has a list
-of [approved open source licenses](https://opensource.org/licenses/category
+modified, and shared. The [Open Source Initiative - OSI](https://opensource.org/licenses) has a list
+of [approved open source licenses](https://opensource.org/licenses/category).
 
 In general, licenses will be divided in three main categories :
 
@@ -249,6 +249,7 @@ The diagram below will help you identify what dependencies are fit to be include
 on the license you have chosen to your project
 
 ![License Compatibility](https://www.dwheeler.com/essays/floss-license-slide-image.png)
+
 Image by David A. Wheeler - https://www.dwheeler.com/essays/floss-license-slide.html
 
 
