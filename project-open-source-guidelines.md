@@ -340,7 +340,8 @@ Before flipping the switch and make your project open source, check the followin
 * All 3rd party dependencies are compatible with chosen license
 * Pull request template is configured with Developer Certificate of Origin
 * README.md file is available and contains detailed build/install instructions  
-* Minimum documentation is available 
+* Minimum documentation is available
+* Continuous integration build is available, enabled and passing all tests
 
 # DISCLAIMER
 
